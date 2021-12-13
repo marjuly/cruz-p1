@@ -138,6 +138,10 @@ span {
   transition: all 0.5s ease;
   padding: 20px 0;
 }
+#logo{
+  font-variant: small-caps;
+}
+
 #header #logo h1 {
   color: #505050;
   font-size: 28px;
@@ -167,7 +171,7 @@ span {
 # Navigation Menu
 --------------------------------------------------------------*/
 /**
-* Desktop Navigation 
+* Desktop Navigation
 */
 .navbar {
   padding: 0;
@@ -256,7 +260,7 @@ span {
 }
 
 /**
-* Mobile Navigation 
+* Mobile Navigation
 */
 .mobile-nav-toggle {
   color: #222;
