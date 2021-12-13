@@ -156,6 +156,7 @@ span {
 }
 #header #logo h1 a span {
   color: #71c55d;
+  font-style: italic;
 }
 #header #logo img {
   padding: 0;
