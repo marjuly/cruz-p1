@@ -1312,3 +1312,7 @@ section {
   letter-spacing: 0;
   color: #71c55d;
 }
+
+#disabled, .twitter, .facebook, .instagram, .linkedin{
+  cursor: not-allowed;
+}
