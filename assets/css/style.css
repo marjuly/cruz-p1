@@ -1316,3 +1316,7 @@ section {
 #disabled, .bi-twitter, .bi-facebook, .bi-instagram, .bi-linkedin{
   cursor: not-allowed;
 }
+
+.img-responsive{
+  width: 300;
+}
