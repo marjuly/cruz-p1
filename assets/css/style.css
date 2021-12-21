@@ -860,7 +860,7 @@ section {
   padding: 49px 20px;
 }
 
-#testimonials {
+#testimonials .testimonials-content::before {
   color: #71c55d;
   content: "\f10e";
   display: inline-block;
