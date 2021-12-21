@@ -1313,6 +1313,6 @@ section {
   color: #71c55d;
 }
 
-#disabled, .twitter, .facebook, .instagram, .linkedin{
+#disabled, .bi-twitter, .bi-facebook, .bi-instagram, .bi-linkedin{
   cursor: not-allowed;
 }
