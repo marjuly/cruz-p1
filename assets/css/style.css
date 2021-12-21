@@ -860,7 +860,7 @@ section {
   padding: 49px 20px;
 }
 
-#testimonials .testimonials-content::before {
+#testimonials {
   color: #71c55d;
   content: "\f10e";
   display: inline-block;
@@ -1318,5 +1318,5 @@ section {
 }
 
 .img-responsive{
-  width: 300;
+  width: 300px;
 }
